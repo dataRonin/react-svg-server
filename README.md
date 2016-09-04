@@ -2,8 +2,13 @@
 
 > The code in this is mostly taken fro the REACT HOT BOILER PLATE. You can go download it in plain if you want, or just use its standard methods to see what is here.  This is my first attempt to do anything at all with React.
 
+Polar Bear Mover
+======
+
+Almost all the exciting parts of code are from the boilerplate. The bear is a modification of an icon I found on Google. The box is not actually a floorplan but simply some path I put together. The transforms are implemented to see if it were possible to do such a thing with a select box.
+
 React Hot Boilerplate
-=====================
+----
 
 The minimal dev environment to enable live-editing React components.
 
